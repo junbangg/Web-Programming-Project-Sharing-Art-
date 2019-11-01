@@ -1,7 +1,9 @@
 header,footer{
   color: white;
   background-color: #3D6271;
-  margin: 0em 4em 0.5em 4em;
+  ;
+  margin: 1em 4em 0.5em 4em;
+
 }
 /*h1,p,nav{
   margin: 1em 0.5em 0.5em 0.5em;
@@ -11,12 +13,22 @@ nav,li{
 }
 article{
   margin: 2em 4em 2em 4em;
+  background-color: white;
 }
 
 .relatedPhotos{
   margin: 1em 0em 1em 0em;
 }
 .extra{
-  padding: 0;
   margin: 0.5em 0.5em;
+}
+.extra1{
+   margin: 1px;
+}
+.extra2 {
+   margin: 1px;
+}
+.entire {
+  background-color: #313b47 ;
+  background-repeat: repeat;
 }
